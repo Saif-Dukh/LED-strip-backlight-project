@@ -20,10 +20,10 @@ Opdracht: Maak een SWOT analyse voor jouw oplossing.
 
 Antwoord:
 
-Sterktes: Ergonomische voordelen, Gebruiksgemak.
-Zwaktes: Beperkingen in aanpassingsmogelijkheden, Visuele afleiding.
-Kansen: Potentieel voor toekomstige ontwikkeling, Marktuitbreiding.
-Bedreigingen: Technische problemen, Gezondheidsrisico's bij verkeerd gebruik.
+Strength: Ergonomische voordelen, Gebruiksgemak.
+Weakness: Beperkingen in aanpassingsmogelijkheden, Visuele afleiding.
+Opportunity: Potentieel voor toekomstige ontwikkeling, Marktuitbreiding.
+Threats: Technische problemen, Gezondheidsrisico's bij verkeerd gebruik.
 
 4. Prototype Ontwikkeling
 Opdracht: Bouw een prototype voor jouw oplossing.
@@ -47,5 +47,5 @@ Opdracht: Maak een presentatie over het concept en prototype.
 
 Antwoord:
 
-Video van de presentatie: Presentatie LED-strip backlight.mp4.
+Video van de presentatie: Presentatie LED-strip backlight.mp4 (Deze video was te groot om in de repository te steken).
 Powerpoint en materialen zijn beschikbaar op Github (link).
