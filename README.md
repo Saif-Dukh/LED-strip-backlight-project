@@ -1,51 +1,56 @@
-Process Design Project: LED-strip backlight
+# Process Design Assignment
 
-1. Probleemidentificatie
-Opdracht: Ga op zoek naar een probleem in jouw dagelijks leven die je met behulp van jouw opgedane kennis uit de opleiding elektronica-ict kan oplossen.
+### Course(s): Electronics-ICT
+#### Instructor: Leroy M.
+#### Students: Tibo Vanden Broeck – Milan Blairon - Saifullah Edilbekov
+#### Class/Group: 1IC
+#### Date: 01/07/2024
 
-Antwoord:
+## Description
 
-Probleem: Hoofdpijn door gebrek aan licht achter computerschermen in Milan's donkere kamer.
-Oplossing: Plaatsing van een LED-strip achter de computerschermen.
+This project, designed as part of the Electronics-ICT course, addresses the challenge of eye strain and headaches Milan faces due to poor lighting conditions behind his computer screens. The solution proposed is the implementation of an LED strip behind the computer screens, which is already built into the desk, requiring only the power supply to be concealed with a specially designed holder.
 
-2. Project Canvas
-Opdracht: Maak een Project canvas aan voor het project.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Canvas](#project-canvas)
+- [SWOT Analysis](#swot-analysis)
+- [Prototype](#prototype)
+- [System Testing](#system-testing)
+- [Presentation](#presentation)
+- [Credits](#credits)
 
-Antwoord:
+## Installation
+To set up the project, follow these steps:
+- Ensure you are a member of the appropriate Toledo group.
+- Download the template: `Achternaam-Voornaam_ProcessDesignK.docx`.
+- Rename the document according to the naming convention.
+- Submit the document via the Toledo group.
 
-Zie bijgevoegd document: Project canvas LED-strip backlight.pdf.
+## Usage
+Each section of the assignment is clearly marked, addressing individual problems with detailed solutions:
+1. Identify a personal daily problem and use your electronics-ICT knowledge to propose a solution.
+2. Create a Project Canvas for your solution.
+3. Conduct a SWOT analysis of your solution.
+4. Develop a prototype that fits your solution.
+5. Devise a comprehensive test for your system.
+6. Record a presentation explaining your concept and prototype.
+7. Create a GitHub repository including all elements with a README.
 
-3. SWOT-analyse
-Opdracht: Maak een SWOT analyse voor jouw oplossing.
+## Project Canvas
+Refer to the document: `Project canvas LED-strip backlight.pdf`
 
-Antwoord:
+## SWOT Analysis
+A detailed analysis of the internal and external factors affecting the project.
 
-Strength: Ergonomische voordelen, Gebruiksgemak.
-Weakness: Beperkingen in aanpassingsmogelijkheden, Visuele afleiding.
-Opportunity: Potentieel voor toekomstige ontwikkeling, Marktuitbreiding.
-Threats: Technische problemen, Gezondheidsrisico's bij verkeerd gebruik.
+## Prototype
+Photographic documentation and rationale for the 3D-printed holder prototype.
 
-4. Prototype Ontwikkeling
-Opdracht: Bouw een prototype voor jouw oplossing.
+## System Testing
+A detailed description of the testing process and criteria for success.
 
-Antwoord:
+## Presentation
+Access the presentation at: `Presentation LED-strip backlight.mp4`
 
-Prototype: 3D-geprinte houder voor LED-strip voeding.
-Foto's van het prototype zijn bijgevoegd.
-
-5. Testontwikkeling
-Opdracht: Ontwikkel een test voor het systeem.
-
-Antwoord:
-
-Testprocedure: Hardware installatie en testen van alle licht-modi.
-Testcondities: Reactietijd van minder dan 1 seconde.
-Video: Test procedure LED-strip.mp4.
-
-6. Presentatie
-Opdracht: Maak een presentatie over het concept en prototype.
-
-Antwoord:
-
-Video van de presentatie: Presentatie LED-strip backlight.mp4 (Deze video was te groot om in de repository te steken).
-Powerpoint en materialen zijn beschikbaar op Github (link).
+## Credits
+Tibo Vanden Broeck, Milan Blairon, Saifullah Edilbekov
